@@ -1,0 +1,32 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=162e909c_002Dad96_002D4950_002Db314_002Dfdef414599e9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Calculate_IfRadiusIsNotValid_CtorShouldTrow #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::6918F79F-003B-403B-BA33-6FED76259D25::net8.0::SquareCalculator.Tests.CircleAreaCalculatorTests.Calculate_IfRadiusIsNotValid_CtorShouldTrow&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1b8f4eda_002De455_002D418d_002Da84e_002Df775290f20b8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Calculate_IfRadiusIsNotValid_CtorShouldTrow #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::6918F79F-003B-403B-BA33-6FED76259D25::net8.0::SquareCalculator.Tests.CircleAreaCalculatorTests.Calculate_IfRadiusIsNotValid_CtorShouldTrow&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5366a2fa_002D62b1_002D4c64_002D82cf_002D1e0bcb5af72a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Calculate_IfRadiusIsNotValid_CtorShouldTrow" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::6918F79F-003B-403B-BA33-6FED76259D25::net8.0::SquareCalculator.Tests.CircleAreaCalculatorTests.Calculate_IfRadiusIsNotValid_CtorShouldTrow&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=79126ee7_002Db7aa_002D4305_002Db2ec_002D5bd854cd0b62/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Calculate_IfRadiusIsNotValid_CtorShouldThrow" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::41BBB995-B29D-4E18-BE1C-7ED3D0F1A78C::net8.0::AreaCalculator.Tests.CircleAreaCalculatorTests.Calculate_IfRadiusIsNotValid_CtorShouldThrow&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::41BBB995-B29D-4E18-BE1C-7ED3D0F1A78C::net8.0::AreaCalculator.Tests.CircleAreaCalculatorTests.Calculate_IfRadiusIsValid_ShouldReturnCorrectArea&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::41BBB995-B29D-4E18-BE1C-7ED3D0F1A78C::net8.0::AreaCalculator.Tests.TriangleAreaCalculatorTests.Calculate_IfSidesAreNotValid_CtorShouldThrow&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::41BBB995-B29D-4E18-BE1C-7ED3D0F1A78C::net8.0::AreaCalculator.Tests.TriangleAreaCalculatorTests.Calculate_IfTriangleIsRightAngled_ShouldReturnCorrectArea&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::41BBB995-B29D-4E18-BE1C-7ED3D0F1A78C::net8.0::AreaCalculator.Tests.TriangleAreaCalculatorTests.Calculate_IfTriangleIsNotRightAngled_ShouldReturnCorrectArea&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::41BBB995-B29D-4E18-BE1C-7ED3D0F1A78C::net8.0::AreaCalculator.Tests.TriangleAreaCalculatorTests.Calculate_IfSidesAreNotCorrect_ShouldTrow&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::41BBB995-B29D-4E18-BE1C-7ED3D0F1A78C::net8.0::AreaCalculator.Tests.TriangleAreaCalculatorTests.Calculate_IfTriangleIsNotValid_ShouldTrow&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ce7d588a_002D096a_002D494b_002D8d69_002D30f96c3b300b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Calculate_IfRadiusIsNotValid_CtorShouldTrow #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::6918F79F-003B-403B-BA33-6FED76259D25::net8.0::SquareCalculator.Tests.CircleAreaCalculatorTests.Calculate_IfRadiusIsNotValid_CtorShouldTrow&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
